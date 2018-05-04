@@ -1,0 +1,6 @@
+name: DiamondAnnounce
+version: 1.0.0
+description: Announces when a diamond or emerald ore is mined
+author: blha303
+website: https://b303.me
+main: me.b303.diamondannounce.DiamondAnnounce
